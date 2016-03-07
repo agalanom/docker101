@@ -3,5 +3,5 @@ build:
   version: 2016-02-13 # version of the build schema.
   steps:
     builder:
-      name: builder
+      name: agalanom/docker101
       dockerfile: Dockerfile.builder
